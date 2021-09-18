@@ -1,0 +1,6 @@
+A tileset that I've been working on this month, it will be added on the next release of Evol Online. (evolonline.org)
+
+ FiveBrosStopMosYT
+08/27/2021 - 19:30
+
+Here's some edits I did. I added a version of underwater that works with LPC, a empty support variant, as well as on-land variants compatible with sand, grass, and jungle grass.
