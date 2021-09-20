@@ -1,14 +1,14 @@
 # WA-Partyinsel
 
-###Bisher: 
+### Bisher: 
 Tilesammlung.
 
-###Geplant: 
+### Geplant: 
 Die Insel als Map
 
-###Optional: 
+### Optional: 
 modifizierte Tiles, 
 Vulkaninneres als Map
 
-###Bonus: 
+### Bonus: 
 Unterwasserwelt als Map
