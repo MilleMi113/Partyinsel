@@ -1,0 +1,9 @@
+The wood bridges are stylized after the rope bridges in the LPC base set, with the following notable differences: The wood planks are wider and have less space between each. Edge light better matches the LPC style guideline documentation. Bridges wider than one tile can be made.
+
+The steel flooring was originally made for bridges/walkways similar to what's seen in the preview, but should be suitable for industrial environments.
+
+The railings in "railing-steel-16x32.png" and "railing-wood-16x32.png" are meant to have a tile size of 16x32. The narrower tile size was chosen as it allows for the angled pieces to be more easily rendered in the correct z-order when you can have sprite in front and behind of the railing. It also allows for finer tuning on their placement.
+Attribution Instructions: 
+Put Xenodora in the appropriate section of the credits.
+
+https://opengameart.org/content/lpc-style-wood-bridges-and-steel-flooring
