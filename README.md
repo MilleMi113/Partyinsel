@@ -18,9 +18,12 @@ Außerdem:
 
 ### Optional: 
 modifizierte Tiles und/oder Tilesets, damit visuell alles besser passt und um Daten zu sparen
+
 Vulkaninneres als Map
 
 ### Bonus: 
 Unterwasserwelt oder Wasserfallhöhle als Map
+
 Hafenkneipe als Map
+
 Hexennhaus als Map
