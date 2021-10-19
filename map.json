@@ -334,7 +334,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"Tilesets\/lpc-terrains_bluecarrot16\/lpc-terrains\/terrain-v7.png",
+         "image":"Tilesets\/lpc-terrains_bluecarrot16\/terrain-v7.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -376,7 +376,7 @@
         {
          "columns":8,
          "firstgid":2265,
-         "image":"Tilesets\/stone_terrain-1.1\/PNG\/32x32\/stone_wall.png",
+         "image":"Tilesets\/stone_terrain\/stone_wall.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -390,7 +390,7 @@
         {
          "columns":3,
          "firstgid":2337,
-         "image":"Tilesets\/stone_terrain-1.1\/PNG\/32x32\/stone_stairs.png",
+         "image":"Tilesets\/stone_terrain\/stone_stairs.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -404,7 +404,7 @@
         {
          "columns":2,
          "firstgid":2346,
-         "image":"Tilesets\/stone_terrain-1.1\/PNG\/32x32\/stone_ground.png",
+         "image":"Tilesets\/stone_terrain\/stone_ground.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -418,7 +418,7 @@
         {
          "columns":8,
          "firstgid":2348,
-         "image":"Tilesets\/stone_terrain-1.1\/PNG\/32x32\/stone_wall-red.png",
+         "image":"Tilesets\/stone_terrain\/stone_wall-red.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -432,7 +432,7 @@
         {
          "columns":3,
          "firstgid":2420,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/!!!Individual PNGS\/cave-opening by Sharm and Mikest.png",
+         "image":"Tilesets\/lpc_final_attributions\/!!!Individual PNGS\/cave-opening by Sharm and Mikest.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -502,7 +502,7 @@
         {
          "columns":7,
          "firstgid":3540,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Casper Nilsson\/harbor.png",
+         "image":"Tilesets\/lpc_final_attributions\/Casper Nilsson\/harbor.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
@@ -516,7 +516,7 @@
         {
          "columns":3,
          "firstgid":3589,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Sharm\/waterfall.png",
+         "image":"Tilesets\/lpc_final_attributions\/Sharm\/waterfall.png",
          "imageheight":160,
          "imagewidth":96,
          "margin":0,
@@ -530,7 +530,7 @@
         {
          "columns":15,
          "firstgid":3604,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Casper Nilsson\/Sampan_boat.png",
+         "image":"Tilesets\/lpc_final_attributions\/Casper Nilsson\/Sampan_boat.png",
          "imageheight":64,
          "imagewidth":480,
          "margin":0,
@@ -544,7 +544,7 @@
         {
          "columns":20,
          "firstgid":3634,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Daniel Eddeland (Daneeklu)\/farming_fishing.png",
+         "image":"Tilesets\/lpc_final_attributions\/Daniel Eddeland (Daneeklu)\/farming_fishing.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -558,7 +558,7 @@
         {
          "columns":16,
          "firstgid":4034,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Tuomo Untinen\/ship.png",
+         "image":"Tilesets\/lpc_final_attributions\/Tuomo Untinen\/ship.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -572,7 +572,7 @@
         {
          "columns":16,
          "firstgid":4290,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Bluecarrot16\/cottage.png",
+         "image":"Tilesets\/lpc_final_attributions\/Bluecarrot16\/cottage.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -586,7 +586,7 @@
         {
          "columns":16,
          "firstgid":4546,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/Bluecarrot16\/doors.png",
+         "image":"Tilesets\/lpc_final_attributions\/Bluecarrot16\/doors.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -600,7 +600,7 @@
         {
          "columns":16,
          "firstgid":4802,
-         "image":"Tilesets\/Final Attributions\/Individual Assets\/!!!Individual PNGS\/desert_house_exterior by Roots.png",
+         "image":"Tilesets\/lpc_final_attributions\/!!!Individual PNGS\/desert_house_exterior by Roots.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -656,7 +656,7 @@
         {
          "columns":6,
          "firstgid":9422,
-         "image":"Tilesets\/rowboat-1.0\/PNG\/32x32\/rowboat.png",
+         "image":"Tilesets\/rowboat-1.0\/PNG\/rowboat.png",
          "imageheight":160,
          "imagewidth":192,
          "margin":0,
@@ -698,7 +698,7 @@
         {
          "columns":32,
          "firstgid":18668,
-         "image":"Tilesets\/lpc-beach-desert\/beach-desert.png",
+         "image":"Tilesets\/beach-desert.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
