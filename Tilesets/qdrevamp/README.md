@@ -1,0 +1,1 @@
+quick and dirty revamp to get images smaller and hopefully unified
