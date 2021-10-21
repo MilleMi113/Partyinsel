@@ -555,6 +555,10 @@
                  "probability":0
                 }, 
                 {
+                 "id":212,
+                 "probability":0.100000001490116
+                }, 
+                {
                  "id":245,
                  "probability":0,
                  "properties":[
@@ -761,13 +765,13 @@
                          "color":"#8ff0a4",
                          "name":"gras",
                          "probability":1,
-                         "tile":-1
+                         "tile":193
                         }, 
                         {
                          "color":"#26a269",
                          "name":"swamp",
                          "probability":1,
-                         "tile":-1
+                         "tile":124
                         }, 
                         {
                          "color":"#0000ff",
@@ -776,7 +780,7 @@
                          "tile":-1
                         }],
                  "name":"gras",
-                 "tile":195,
+                 "tile":193,
                  "type":"corner",
                  "wangtiles":[
                         {
@@ -1030,28 +1034,28 @@
                          "color":"#f6d32d",
                          "name":"sand",
                          "probability":1,
-                         "tile":-1
+                         "tile":100
                         }, 
                         {
                          "color":"#99c1f1",
                          "name":"shallow water",
                          "probability":1,
-                         "tile":-1
+                         "tile":167
                         }, 
                         {
                          "color":"#3584e4",
                          "name":"water",
                          "probability":1,
-                         "tile":-1
+                         "tile":171
                         }, 
                         {
                          "color":"#0000ff",
                          "name":"deep water",
                          "probability":1,
-                         "tile":-1
+                         "tile":174
                         }],
                  "name":"beach",
-                 "tile":-1,
+                 "tile":99,
                  "type":"corner",
                  "wangtiles":[
                         {
@@ -1657,19 +1661,19 @@
                          "color":"#ff0000",
                          "name":"smooth",
                          "probability":1,
-                         "tile":-1
+                         "tile":345
                         }, 
                         {
                          "color":"#00ff00",
                          "name":"coars",
                          "probability":1,
-                         "tile":-1
+                         "tile":115
                         }, 
                         {
                          "color":"#0000ff",
                          "name":"pebbly",
                          "probability":1,
-                         "tile":-1
+                         "tile":112
                         }, 
                         {
                          "color":"#ff7700",
@@ -1681,10 +1685,10 @@
                          "color":"#00e9ff",
                          "name":"pebbly wall",
                          "probability":1,
-                         "tile":-1
+                         "tile":145
                         }],
                  "name":"dock",
-                 "tile":-1,
+                 "tile":145,
                  "type":"corner",
                  "wangtiles":[
                         {
@@ -1882,7 +1886,7 @@
                          "color":"#ffbe6f",
                          "name":"dirt",
                          "probability":1,
-                         "tile":-1
+                         "tile":121
                         }, 
                         {
                          "color":"#ff0000",
@@ -1891,7 +1895,7 @@
                          "tile":-1
                         }],
                  "name":"dirt",
-                 "tile":-1,
+                 "tile":121,
                  "type":"corner",
                  "wangtiles":[
                         {
