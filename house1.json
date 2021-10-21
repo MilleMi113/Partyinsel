@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#house1"
+                 "value":"map.json#house1"
                 }],
          "type":"tilelayer",
          "visible":true,
