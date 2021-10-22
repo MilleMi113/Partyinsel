@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared FraMaAssembly_Lounge"
+                 "value":"https:\/\/meet.jit.si\/HexenhausLebkuchenhausVillaKunterbunt"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -158,6 +158,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":4,
                  "properties":[
