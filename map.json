@@ -151,6 +151,16 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"http:\/\/party.milleschmider.de\/"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/party.milleschmider.de\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"int",
+                 "value":100
                 }],
          "type":"tilelayer",
          "visible":true,
