@@ -150,12 +150,12 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"http:\/\/party.milleschmider.de\/"
+                 "value":"https:\/\/party.milleschmider.de\/"
                 }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/party.milleschmider.de\/"
+                 "value":"https:\/\/party.milleschmider.de\/"
                 }, 
                 {
                  "name":"openWebsiteWidth",
